@@ -1,2 +1,1 @@
-# react-practice
-exercises and code-alongs in react
+The projects in this repo are not solely done by me. This is to practice and play with react concepts and will contain codealongs using any video/cpurse, exercises or projects developed with somme started code.
